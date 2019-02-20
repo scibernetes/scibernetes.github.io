@@ -1,6 +1,6 @@
 # Scibernetes
 
-[Idea pitched at the [eLife Innovation Sprint 2018](), see [slide](https://docs.google.com/presentation/d/1gvyoGW-__7k41KFN4PLhZtpapHNr-4IoeMTIXMiFHDs/edit#slide=id.g37b02a27cf_47_0).]
+[Idea pitched at the [eLife Innovation Sprint 2018](https://elifesciences.org/events/c40798c3/elife-innovation-sprint-2018), see [slide](https://docs.google.com/presentation/d/1gvyoGW-__7k41KFN4PLhZtpapHNr-4IoeMTIXMiFHDs/edit#slide=id.g37b02a27cf_47_0).]
 
 Containers are great for capturing computational environments, the scientist’s "virtual laboratory", and provide portability and quick interactions.
 They lack (intentionally for the original use case) documentation of hardware (GPU, CPU) and system (OS, Kernel) requirements as well as software licenses, but those might be relevant for scientific computing, reproducibility, and preservation.
